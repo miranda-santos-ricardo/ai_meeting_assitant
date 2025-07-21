@@ -15,7 +15,8 @@ Architecture
 
 
 ⚙️ Stack
-FrontEnd: Gradio
+FrontEnd: 
+  - Gradio
 BackEnd: 
   - Python
   - OpenAI Whisper

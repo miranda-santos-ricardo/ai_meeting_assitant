@@ -8,9 +8,9 @@ Architecture
 
 
 🚀 Functionality
-Upload audio file
-Automatic transcribe 
-Receive the audio transcription
+  - Upload audio file
+  - Automatic transcribe 
+  - Receive the audio transcription
 
 
 

@@ -24,7 +24,7 @@ Architecture
 
     
 📦 Install
-git clone https://github.com/miranda-santos-ricardo/ai_meeting_assitant.git
-cd ai_meeting_assitant
-pip install -r requirements.txt
+git clone https://github.com/miranda-santos-ricardo/ai_meeting_assitant.git \n
+cd ai_meeting_assitant \n
+pip install -r requirements.txt \n
 py speech2text_app.py
